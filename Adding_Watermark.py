@@ -1,4 +1,4 @@
-#Import Libraries
+#Import Library
 import PyPDF2
 import sys
 
