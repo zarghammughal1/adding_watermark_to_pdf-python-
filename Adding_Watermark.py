@@ -1,4 +1,5 @@
 """
+  The code will add the watermark into the pdf file.
   Get the pdf file, watermark, and then add waterark to the pages of pdf file.
 """
 import PyPDF2
