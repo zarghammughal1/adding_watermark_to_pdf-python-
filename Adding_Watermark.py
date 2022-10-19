@@ -1,5 +1,7 @@
+"""
+  Get the pdf file, watermark, and then add waterark to the pages of pdf file.
+"""
 import PyPDF2
-
 pdf_file = "doc.pdf"
 watermark = "watermark.pdf"
 merged_file = "merged.pdf"
