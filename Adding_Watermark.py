@@ -1,9 +1,6 @@
 
 '''
-#Add Watermark to PDF (Python)
-#Import Files
-just add watermark and pdf file
-
+    Add Watermark to PDF (Python)
 '''
 import PyPDF2
 import sys
